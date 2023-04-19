@@ -6,17 +6,23 @@ Passionate about the design and development of computer systems. I'm a computer 
     </h3>
 </div>
 
+### ✨ About Me :
+
+- 🎓 I’m studing at Universidad de Buenos Aires
+- 💬 Ask me about Java, Python, UML 
+- 🌱 I’m currently learning Javascript, DevOps Tools and PowerBI
+- 📫 How to reach me lucasgonzalezmed@gmail.com 
 <!--
 **LucasGonzalezMed/LucasGonzalezMed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🌱 I’m currently learning Javascript, DevOps Tools and PowerBI
+- 🎓 I’m studing at Universidad de Buenos Aires
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 💬 Ask me about Java, Python, UML 
+- 📫 How to reach me lucasgonzalezmed@gmail.com 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
