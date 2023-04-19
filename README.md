@@ -15,11 +15,11 @@ Passionate about the design and development of computer systems. I'm a computer 
 <div align="left">
     <h3>🔨 Languages and Tools</h3>
     <div>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" alt="HTML5"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" />
-        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" alt="MySql" />
-        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" />
-        <img src="https://www.sparks-formation.com/wp-content/uploads/2020/06/logo-analyse-conception-uml-2.png" alt="UML" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" alt="HTML5" width="40"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="40" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" alt="MySql" width="40"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="40"/>
+        <img src="https://www.sparks-formation.com/wp-content/uploads/2020/06/logo-analyse-conception-uml-2.png" alt="UML" width="40"/>
     </div>
 </div>
 <!--
