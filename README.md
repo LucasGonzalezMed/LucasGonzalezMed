@@ -20,7 +20,7 @@ Passionate about the design and development of computer systems. I'm a computer 
         <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" alt="MySql" width="40"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="40"/>
         <img src="https://www.sparks-formation.com/wp-content/uploads/2020/06/logo-analyse-conception-uml-2.png" alt="UML" width="40"/>
-        <img src="https://img2.freepng.es/20180320/etq/kisspng-microsoft-office-365-microsoft-office-2016-compute-icon-office-365-library-5ab0cd0fb18206.7421854715215362717271.jpg" alt="Microsoft Office" width="40"/>
+        <img src="https://fixbit.com.ar/wp-content/uploads/2022/10/microsoft-office-button-red-png-logo-22.png" alt="Microsoft Office" width="40"/>
     </div>
 </div>
 <!--
