@@ -12,6 +12,16 @@ Passionate about the design and development of computer systems. I'm a computer 
 - 💬 Ask me about Java, Python, UML 
 - 🌱 I’m currently learning Javascript, DevOps Tools and PowerBI
 - 📫 How to reach me lucasgonzalezmed@gmail.com 
+<div align="left">
+    <h3>🔨 Languages and Tools</h3>
+    <div>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" alt="HTML5"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" alt="MySql" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" />
+        <img src="https://www.sparks-formation.com/wp-content/uploads/2020/06/logo-analyse-conception-uml-2.png" alt="UML" />
+    </div>
+</div>
 <!--
 **LucasGonzalezMed/LucasGonzalezMed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
